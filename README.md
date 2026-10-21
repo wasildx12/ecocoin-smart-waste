@@ -1,0 +1,1 @@
+# ecocoin-smart-waste
